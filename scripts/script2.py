@@ -1,1 +1,2 @@
 
+print("script 2")
